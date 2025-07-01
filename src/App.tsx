@@ -68,7 +68,7 @@ function App() {
               <TransportHeader />
 
               {/* Main Content */}
-              <main className="pt-20 pb-20 px-4 min-h-screen">
+              <main className="pt-24 sm:pt-20 pb-20 px-4 min-h-screen">
                 <div className="max-w-7xl mx-auto">
                   {renderPages()}
                 </div>
